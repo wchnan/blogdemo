@@ -7,4 +7,5 @@
 - **KeyboardNotificationCalledMultiTimeDemo.zip**   [UIKeyboardWillShowNotification调用多次的问题](https://xing-ou.github.io/2016/05/03/UIKeyboardWillShowNotification调用多次的问题/)
 
 
+- **TagNavigationDemo.zip**  [UIPageViewController实现标签导航](https://xing-ou.github.io/2016/05/11/UIPageViewController实现标签导航/)
 
